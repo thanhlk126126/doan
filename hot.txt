@@ -1,0 +1,33 @@
+
+Main Hosting Details
+Control panel username
+freev_15239461
+Control panel password	**********
+Control panel URL
+cpanel.freevnn.com
+MySQL username
+freev_15239461
+MySQL password
+**********
+MySQL hostname
+sql101.freevnn.com
+FTP username
+freev_15239461
+FTP password
+**********
+FTP host name	ftp.freevnn.com
+
+
+Automatically Installed Script (if chosen)
+Script name
+wordpress
+Login username
+admin
+Login password	**********
+
+
+Your Website URL's
+Home page
+http://duyhai.freevnn.com
+Your script admin area
+http://duyhai.freevnn.com/wp-admin/
